@@ -1,0 +1,21 @@
+#banner{
+    height: 500px;
+    background-size: cover;
+    object-fit: contain;
+}
+#content{
+    padding-top: 150px;
+    padding-left: 50px;
+    height: 200px;
+}
+#title{
+    font-size: 3rem;
+
+}
+#desc{
+    width: 45rem;
+    line-height: 1.5;
+    font-size: 1rem;
+    max-width: 550px;
+    height: 80px;
+}
